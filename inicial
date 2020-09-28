@@ -1,0 +1,14 @@
+Iniciar repositorio numa pasta do computador
+git init
+
+Cirar o README.md
+Adicionar o arquivo: git add
+
+Fazer commit: git commit -m "teste"
+
+Adicionar no servidor:
+
+Criar repositorio direto no GitHub
+Copiar o link gerado
+git remote add origin "link gerado pelo github"
+
